@@ -1,0 +1,44 @@
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhoneSimulator/Debug/optimized/icono.png
+/Users/enrique/Projects/MVAV41/MVAV41/bin/iPhoneSimulator/Debug/MVAV41.exe.mdb
+/Users/enrique/Projects/MVAV41/MVAV41/bin/iPhoneSimulator/Debug/MVAV41.exe
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhoneSimulator/Debug/MVAV41.exe
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhoneSimulator/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhoneSimulator/Debug/optimized/icono.png
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhoneSimulator/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhoneSimulator/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhoneSimulator/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhoneSimulator/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhoneSimulator/Debug/Microsoft.Data.Edm.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhoneSimulator/Debug/System.Spatial.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhoneSimulator/Debug/Microsoft.Data.OData.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhoneSimulator/Debug/Microsoft.Data.Services.Client.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhoneSimulator/Debug/optimized/icono.png
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhoneSimulator/Debug/optimized/
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhoneSimulator/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhoneSimulator/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/Microsoft.Data.Edm.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/System.Spatial.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/Microsoft.Data.OData.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/Microsoft.Data.Services.Client.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll

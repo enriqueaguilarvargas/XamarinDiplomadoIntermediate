@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{18265A34-6631-456A-8025-DB478738263A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AndroidDescargaImagen/MainActivity.cs">
+    <Files>
+      <File FileName="AndroidDescargaImagen/MainActivity.cs" Line="5" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/enrique/Projects/AndroidDescargaImagen/AndroidDescargaImagen/Resources/layout/Main.axml" line="8" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AndroidDescargaImagen AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus (Lollipop)" AndroidDesignerPreferredTheme="Theme.Custom" />
+</Properties>

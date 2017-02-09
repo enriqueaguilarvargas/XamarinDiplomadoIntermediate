@@ -1,0 +1,4 @@
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/mtouch-cache/64/Link/MVAV41.exe
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/mtouch-cache/64/Link/System.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/mtouch-cache/64/Link/mscorlib.dll

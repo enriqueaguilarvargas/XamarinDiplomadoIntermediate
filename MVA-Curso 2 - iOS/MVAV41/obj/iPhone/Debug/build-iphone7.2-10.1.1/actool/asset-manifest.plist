@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/actool/partial-info.plist</string>
+		</array>
+	</dict>
+</dict>
+</plist>

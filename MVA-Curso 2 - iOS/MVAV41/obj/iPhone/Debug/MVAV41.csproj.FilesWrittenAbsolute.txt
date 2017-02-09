@@ -1,0 +1,105 @@
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/
+/Users/enrique/Projects/MVAV41/MVAV41/bin/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Projects/MVAV41/MVAV41/bin/iPhone/Debug/MVAV41.exe
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhone/Debug/MVAV41.exe
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Projects/MVAV41/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/icono.png
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/icono.png
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Microsoft.Data.Edm.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/System.Spatial.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Microsoft.Data.OData.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Microsoft.Data.Services.Client.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/icono.png
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Microsoft.Data.Edm.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/System.Spatial.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Microsoft.Data.OData.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Microsoft.Data.Services.Client.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/bin/iPhone/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/optimized/icono.png
+/Users/enrique/Desktop/MVAV41-CapturaiOS/MVAV41/obj/iPhone/Debug/optimized/
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/icono.png
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.Data.Edm.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/System.Spatial.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.Data.OData.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.Data.Services.Client.dll
+/Users/enrique/Desktop/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/icono.png
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.1.1/optimized/
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.Data.Edm.dll
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/System.Spatial.dll
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.Data.OData.dll
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.Data.Services.Client.dll
+/Users/enrique/Desktop/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/optimized/icono.png
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/optimized/
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.Data.Edm.dll
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/System.Spatial.dll
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.Data.OData.dll
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.Data.Services.Client.dll
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/bin/iPhone/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/optimized/icono.png
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/optimized/
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Desktop/iOS 2016/XamDevDaysCDMX/MVAV41-CapturaiOS - Camara/MVAV41/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/optimized/icono.png
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhone/Debug/build-iphone7.2-10.2/optimized/
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhone/Debug/MVAV41.exe
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/obj/iPhone/Debug/MVAV41.exe.mdb
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/Microsoft.Data.Edm.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/System.Spatial.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/Microsoft.Data.OData.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/Microsoft.Data.Services.Client.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/enrique/Desktop/MVA/MVAV41-CapturaiOS - Camara - Módulo 3/MVAV41/bin/iPhone/Debug/Plugin.Geolocator.dll
